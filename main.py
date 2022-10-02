@@ -1,8 +1,5 @@
 import random
 
-# import wordlist.py
-# words = wordlist.words1[]
-
 from wordlist import words
 from men import stages
 
