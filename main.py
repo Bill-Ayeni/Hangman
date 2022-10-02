@@ -131,6 +131,7 @@ print(f"{' '.join(display)}")
 #         print("wrong")
 #     position+= 1
 
+
 # if todays_word.find(userinput1) > 0:
 #     print("yup")
 # else:
